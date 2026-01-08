@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently learning C++,SQL and Python<br>
+🌱 Currently learning C++,SQL,Python,CUDA,R and have some experience with C<br>
 
 
 # 💻 Tech Stack:
