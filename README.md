@@ -5,7 +5,7 @@
 - Using Python for scripting, experimentation, and numerical work
 - Comfortable learning new tools when the problem demands it
 
-# Stack
+# Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
