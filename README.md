@@ -1,6 +1,6 @@
 # About Me
 
-- Focused on **C++17-26**, systems programming, and numerical simulation
+- Modern **C++**, systems programming, and numerical simulation
 - Interested in memory management, performance, and computational mathematics
 - Using Python for scripting, experimentation, and numerical work
 - Comfortable learning new tools when the problem demands it
